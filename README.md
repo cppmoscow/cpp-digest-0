@@ -11,7 +11,7 @@
 * [ReSharper C++ 2023.2](https://blog.jetbrains.com/rscpp/2023/08/02/resharper-cpp-2023-2/) — Добавление AI Assistant, поддержки C++20 и C++23, операции безопасного удаления, улучшенная поддержка Unreal Engine Blueprints и другое.
 * [Dear ImGui 1.89.8](https://github.com/ocornut/imgui/releases/tag/v1.89.8) — Небольшие изменения, багфиксы и новые демонстрационные примеры программ.
 * [Godot 4.2 dev 2](https://godotengine.org/article/dev-snapshot-godot-4-2-dev-2/) — Добавление поддержки [OpenXR API](https://registry.khronos.org/OpenXR/specs/1.0/man/html/openxr.html), отладки мультипоточного кода в дебаггере скриптов, багфиксы и прочее.
-* [GCC 13.2](https://gcc.gnu.org/gcc-13/) — Баг-фиксы и устранение регрессий относительно прошлых релизов.
+* [GCC 13.2](https://gcc.gnu.org/gcc-13/) — Багфиксы и устранение регрессий относительно прошлых релизов.
 
 ## 📝 Статьи
 
@@ -36,3 +36,7 @@
 2. Jason Turner: [C++ Weekly - SE - Interview with Stephen Berry - ODE's, Physics, constexpr, High Performance C++](https://www.youtube.com/watch?v=NS9rh_DuL_E)
 3. Jason Turner: [C++ Weekly - Ep 387 - My Customized C++ Programming Keyboard!](https://www.youtube.com/watch?v=LwxBLG8aGlo) — Обзор самодельной клавиатуры, позволяющей набирать _const_, _constexpr_ и прочие ключевые слова с недостижимой ранее скоростью.
 4. The Cherno: [Instant Messaging App in C++ // Code Review](https://www.youtube.com/watch?v=HAn6B7TTtuQ) — Код-ревью [простенького чатика](https://github.com/TheCherno/Walnut-Chat), написанного самим же автором видео.
+
+## 🎙️Подкасты
+
+1. CppCast: [Episode 366, How CLion works under the hood](https://cppcast.com/how_clion_works_under_the_hood/) — Об особенностях внутренней машинерии CLion: парсеров, семантических анализаторов и прочего, вдыхающей жизнь в весь продукт.
